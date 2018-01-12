@@ -1,3 +1,20 @@
+- title: General
+  docs:
+    - introduction
+    - system_requirements
+    - quick_start_guide
+    - estimote_cloud
+    - examples
+
+- title: API
+  docs:
+    - estimote_unity_beacon
+    - estimote_unity_beacon_cloud_info
+    - estimote_unity
+
+- title: Changelog
+  docs:
+
 - title: Getting Started
   docs:
   - home
