@@ -1,9 +1,8 @@
 # Site settings
-title: Estimote Unity Documentation
+title: Estimote Unity
 email: support@o-mobile.co.uk
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Estimote Unity Documentation
 
 baseurl: "/EstimoteUnityDocs" # the subpath of your site, e.g. /blog/
 url: https://o-mobile.github.io/EstimoteUnityDocs/ # the base hostname & protocol for your site
